@@ -1,0 +1,26 @@
+h1{
+    border: 1px solid black;
+    margin: 150px;
+}
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    display: inline-block ;
+}
+img{
+    width: 100px;
+    height: 100px; 
+}
+.gatito2{
+    width: 200px;
+    height: 200px;
+}
+.contenedor_gatitos{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid orange;
+    box-sizing: border-box;
+    margin: auto;
+}

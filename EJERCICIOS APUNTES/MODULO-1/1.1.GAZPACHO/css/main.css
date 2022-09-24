@@ -1,0 +1,13 @@
+*{
+    background-color: #f3f4f5;
+
+}
+h1{
+    font-size: 24px;
+    font-family: Arial;
+}
+p, ul, ol, h2{
+    font-family: Georgia;
+    color:#757575 ;
+    font-size: 18px;
+}
