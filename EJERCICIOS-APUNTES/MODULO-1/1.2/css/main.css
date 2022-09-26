@@ -8,7 +8,7 @@ div{
     border: 1px solid green;
     display: inline-block ;
 }
-img{
+.gato_100{
     width: 100px;
     height: 100px; 
 }
@@ -19,8 +19,9 @@ img{
 .contenedor_gatitos{
     width: 100px;
     height: 100px;
-    padding: 10px;
-    border: 5px solid orange;
+    /*padding: 10px;
+    border: 5px solid orange;*/
     box-sizing: border-box;
-    margin: auto;
+    margin:auto;
+    
 }
