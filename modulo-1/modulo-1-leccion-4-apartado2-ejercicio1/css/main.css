@@ -1,0 +1,34 @@
+.container{
+    background-color: beige;
+    position: absolute;
+}
+.div-1, .div-2, .div-3{
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    padding: 30px;
+}
+.div-1{
+    background-color: pink;
+    position: relative;
+    margin-left: 140px;
+    margin-top: 90px;
+}
+.div-2{
+    background-color: aquamarine;
+    position: relative;
+    margin-right: 190px;
+    margin-bottom: 360px;
+}
+.div-3{
+    background-color: salmon;
+    position: relative;
+    margin-left: 220px;
+    margin-bottom: 280px;
+}
+
+
+.cabecera{
+    background-color: purple;
+    position: fixed;
+}

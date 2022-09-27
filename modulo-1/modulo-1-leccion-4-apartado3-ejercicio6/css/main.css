@@ -1,0 +1,44 @@
+body{
+    border: 8px solid black;
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    position: relative;
+    
+}
+.elemento-oscuro{
+    background-color: rgba(0, 0, 0, 0.664);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.autor{
+    font-size: 18px;
+    margin-bottom: 40px;
+    left: 260%;
+    top: 0%;
+    transform: translate(-260%, 0%);
+
+}
+.titulo{
+    font-size: 32px;
+    margin-bottom: 32px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.texto{
+    margin-top: 106px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+p{
+    font-size: 18px;
+    margin-bottom: 27px;
+}
+.link{
+    padding: 8px, 16px, 8px, -16px;
+}

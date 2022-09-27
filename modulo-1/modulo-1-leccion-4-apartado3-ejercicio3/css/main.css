@@ -1,0 +1,13 @@
+.cookies{
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    background-color: yellow;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, 0%);
+}
+
+div{
+    position: ;
+}
