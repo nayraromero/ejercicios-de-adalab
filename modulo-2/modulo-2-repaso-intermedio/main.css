@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 80px;
+}
+.h1 {
+  font-size: 100px;
+}
+.yellow {
+  background-color: #ffcc00;
+}
+.orange {
+  background-color: #ff9900;
+}
